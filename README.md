@@ -18,4 +18,4 @@ This project is built for the assignment of WIE2003 Introduction to Data Science
 2. Save and run the file, the prediction string will be shown in the terminal together with the confidence value of each character. An image with bounding box drawn will also be displayed.
 
 ## Credits
-Acquired the datasets from [here](www.google.com)
+The dataset for the ML Model is acquired from [here](https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols?resource=download)
